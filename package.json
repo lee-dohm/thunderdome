@@ -1,0 +1,28 @@
+{
+  "name": "thunderdome",
+  "version": "0.1.0",
+  "description": "A test harness for comparing two algorithms against each other",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lee-dohm/thunderdome.git"
+  },
+  "keywords": [
+    "test",
+    "harness",
+    "two",
+    "algorithms",
+    "enter",
+    "one",
+    "leaves"
+  ],
+  "author": "Lee Dohm <lee@lee-dohm.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lee-dohm/thunderdome/issues"
+  },
+  "homepage": "https://github.com/lee-dohm/thunderdome#readme"
+}
